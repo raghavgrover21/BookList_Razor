@@ -1,0 +1,11 @@
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.deps.json
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.runtimeconfig.json
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.runtimeconfig.dev.json
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.dll
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.pdb
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.csprojAssemblyReference.cache
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.csproj.CoreCompileInputs.cache
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.AssemblyInfoInputs.cache
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.AssemblyInfo.cs
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.dll
+C:\Users\Albo\source\repos\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.pdb
